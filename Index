@@ -2,3 +2,37 @@ theparty.io
 ===========
 
 index
+<html>
+<head>
+<title>theparty.io</title>
+</head>
+
+<body bgcolor="33e5b5" text="black">
+<img src="partylogo.png" width="771" height="180"
+
+
+<h2>come party with us<h2><F5><F6>
+
+</body>
+
+<table border="1" style="width:300px">
+<tr>
+  <td><font color="orange">Location</td> 
+  <td><font color="orange">Party?</font></td>
+</tr>
+<tr>
+  <td>Casa de Zeis</td> 
+  <td><font color="red">nah</font></td>
+</tr>
+</table>
+
+<h3>do you like to party?</h3>
+<form>
+  <input type="radio" name="answer" value="Yes">Yay<br>
+  <input type="radio" name="answer" value="No">Neigh<br>
+  who are you<input type="text" name="name"><br>
+  <input type="submit" value="submit">
+</form>
+
+
+<embed height="1" width="1" src="vinyl.mp3">
